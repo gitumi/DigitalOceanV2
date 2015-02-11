@@ -121,6 +121,8 @@ class Droplet extends AbstractEntity
      */
     public $virtIOEnabled;
 
+    public $nextBackupWindow;
+
     /**
      * @param \stdClass|array $parameters
      */
