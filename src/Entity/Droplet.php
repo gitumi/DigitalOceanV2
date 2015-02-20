@@ -60,6 +60,8 @@ class Droplet extends AbstractEntity
      * @var String
      */
     public $sizeSlug;
+    
+    public $size;
 
     /**
      * @var boolean
